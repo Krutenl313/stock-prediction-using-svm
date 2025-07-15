@@ -1,4 +1,4 @@
-# stock-prediction-using-svm
+# sales-prediction-using-svm
 <h1> Sales prediction using svm model </h1>
 <p>
    Using support vector machine (SVM) i have created this simple prediction of sales  project which uses the linear kernel can be used to predict sales for an organisation.
